@@ -9,11 +9,12 @@ Neu: Was möchten Sie Neues lernen? Ich möchte lernen wie man einen Discord Bot
 Was wäre ein geeignetes Projekt für diese LP4? Ich will probieren einen Discord Bot selbst zu erstellem
 # 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich recherchiert, wie man einen Discord Bot erstellt und ich habe ein bisschen an meiner Datenbank weitergearbeitet weil die Abgabe schon bald ist. Ich musste in eine Datenbank mehrere Beispiele einfügen und es hat gut funktioniert. Ich musste diese Arbeit nachholen, weil ich nicht Anwesend war und ich konnte gut arbeiten, weil ich meine Ruhe hatte.
 # 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+- [ ] SELECT Begriff in Datenbank Modul anwenden.
+- [ ] Mit dem Discord Bot starten
+- [ ] Aufgabe 4 LB weiterarbeiten Modul 164
+- [ ] Für den Discord Bot recherchieren
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
