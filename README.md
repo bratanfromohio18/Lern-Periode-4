@@ -11,7 +11,7 @@ Was wäre ein geeignetes Projekt für diese LP4? Ich will probieren einen Discor
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich recherchiert, wie man einen Discord Bot erstellt und ich habe ein bisschen an meiner Datenbank weitergearbeitet weil die Abgabe schon bald ist. Ich musste in eine Datenbank mehrere Beispiele einfügen und es hat gut funktioniert. Ich musste diese Arbeit nachholen, weil ich nicht Anwesend war und ich konnte gut arbeiten, weil ich meine Ruhe hatte.
 # 27.2.2024
-- [ ] SELECT Begriff in Datenbank Modul anwenden.
+- [X] SELECT Begriff in Datenbank Modul anwenden.
 - [ ] Mit dem Discord Bot starten
 - [ ] Aufgabe 4 LB weiterarbeiten Modul 164
 - [ ] Für den Discord Bot recherchieren
@@ -19,9 +19,17 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
 4				
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an dem SQL Auftrag gearbeitet und ich bin gut voran gekommen. Ich konnte viel machen und ich habe die Aufgabe 2 fast fertig. Ich muss nur noch eienn Datensatz einfügen. Ich habe mich heute nur auf SQL spezifieziert und ich habe sehr vertieft gearbeitet.   (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+# 05.03.2024
+
+- [ ] Heute trage ich die Datensätze in die Datenbank ein
+- [ ] Heute fange ich mit dem Discordbot an.
+- [ ] Heute schaue ich mir diese Video an: https://youtu.be/PviB2V-ZLSc?si=YZ1fCHp4ygamgtCV
+- [ ] SQL Code anpassen
+
 
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
