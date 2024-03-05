@@ -25,11 +25,19 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
 # 05.03.2024
 
-- [ ] Heute trage ich die Datensätze in die Datenbank ein
+- [X] Heute trage ich die Datensätze in die Datenbank ein
 - [ ] Heute fange ich mit dem Discordbot an.
-- [ ] Heute schaue ich mir diese Video an: https://youtu.be/PviB2V-ZLSc?si=YZ1fCHp4ygamgtCV
-- [ ] SQL Code anpassen
+- [X] Heute schaue ich mir diese Video an: https://youtu.be/PviB2V-ZLSc?si=YZ1fCHp4ygamgtCV
+- [X] SQL Code anpassen
 
+Heute habe ich mir das Video auf Youtube angeschaut und ich habe an SQL weitergearbeitet. SQL interessiert mich sehr und ich glaube ich werde auch noch mehr an SQL arbeiten. Ich konnte heute gut arbeiten weil ich länger schlafen konnte und mich besser konzentrieren konnte durch das. Ich habe leider das Ziel mit dem Discord Bot nicht geschafft und habe leider noch nicht mit dem Discord Bot angefangen aber ich probiere nächstes Mal damit anzufangen.
+
+# 12.03.2024
+
+- [ ] Heute fange ich mit dem Discordbot an
+- [ ] Heute mache ich den Auftrag 0705 im Modul 187
+- [ ] Heute mache ich den Auftrag 0706 im Modul 187
+- [ ] Heute mache ich den Auftrag 0707 im Modul 187
 
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
