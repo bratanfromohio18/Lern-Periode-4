@@ -41,6 +41,14 @@ Heute habe ich mir das Video auf Youtube angeschaut und ich habe an SQL weiterge
 
 Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig geworden. Die Aufträge waren anspruchsvoll und ich finde das ich sie gut abgearbeitet habe und die Dokumentation für die Auftröge konnte ich ebenfalls machen und dadurch auch gut für das Modul. Es hat mir sehr viel gebracht das ich das Modul verstehe und jetzt besser bin als ich vorher war. Ich habe vorgearbeitet und habe es am Sonntag gemacht die 5 lektionen. Das hat mir sehr geholfen.
 
+# 19.03.2024
+
+- [ ] Ich mache heute den Auftrag 0708 im Modul 187
+- [ ] Heute mache ich den Auftrag 2403 im Modul 106
+- [ ] Heute mache ich den Auftrag 2402 im Modul 106
+- [ ] Heute mache ich den Auftrag 0709 im Modul 187
+
+
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
