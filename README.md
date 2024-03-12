@@ -35,9 +35,11 @@ Heute habe ich mir das Video auf Youtube angeschaut und ich habe an SQL weiterge
 # 12.03.2024
 
 - [ ] Heute fange ich mit dem Discordbot an
-- [ ] Heute mache ich den Auftrag 0705 im Modul 187
-- [ ] Heute mache ich den Auftrag 0706 im Modul 187
-- [ ] Heute mache ich den Auftrag 0707 im Modul 187
+- [X] Heute mache ich den Auftrag 0705 im Modul 187
+- [X] Heute mache ich den Auftrag 0706 im Modul 187
+- [X] Heute mache ich den Auftrag 0707 im Modul 187
+
+Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig geworden. Die Aufträge waren anspruchsvoll und ich finde das ich sie gut abgearbeitet habe und die Dokumentation für die Auftröge konnte ich ebenfalls machen und dadurch auch gut für das Modul. Es hat mir sehr viel gebracht das ich das Modul verstehe und jetzt besser bin als ich vorher war. Ich habe vorgearbeitet und habe es am Sonntag gemacht die 5 lektionen. Das hat mir sehr geholfen.
 
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
