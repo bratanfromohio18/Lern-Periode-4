@@ -53,10 +53,10 @@ Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig
 
 # 26.03.2024
 
-- [ ] Heute mache ich den Auftrag 2403 im Modul 106
-- [ ] Heute mache ich den Auftrag 2402 im Modul 106
-- [ ] Heute mache ich den Auftrag 0710 im Modul 187
-- [ ] Heute mache ich den Auftrag 0711 im Modul 187
+- [ ] Heute mache ich den Auftrag 2403 im Modul 106.
+- [ ] Heute mache ich den Auftrag 2402 im Modul 106.
+- [ ] Heute mache ich den Auftrag 0710 im Modul 187.
+- [ ] Heute mache ich den Auftrag 0711 im Modul 187.
 
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
