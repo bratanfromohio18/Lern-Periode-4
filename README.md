@@ -43,10 +43,12 @@ Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig
 
 # 19.03.2024
 
-- [ ] Ich mache heute den Auftrag 0708 im Modul 187
+- [X] Ich mache heute den Auftrag 0708 im Modul 187
 - [ ] Heute mache ich den Auftrag 2403 im Modul 106
 - [ ] Heute mache ich den Auftrag 2402 im Modul 106
-- [ ] Heute mache ich den Auftrag 0709 im Modul 187
+- [X] Heute mache ich den Auftrag 0709 im Modul 187
+
+ Heute habe ich die Aufträge 0708 uund 0709 lösen können im Unterricht. Ich habe mit den Aufträgen länger gebraucht als erwartet und konnte so die anderen zwei Aufträge nicht machen. Jedoch mache 
 
 
 # Reflexion
