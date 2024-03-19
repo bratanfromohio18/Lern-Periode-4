@@ -48,8 +48,15 @@ Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig
 - [ ] Heute mache ich den Auftrag 2402 im Modul 106
 - [X] Heute mache ich den Auftrag 0709 im Modul 187
 
- Heute habe ich die Aufträge 0708 uund 0709 lösen können im Unterricht. Ich habe mit den Aufträgen länger gebraucht als erwartet und konnte so die anderen zwei Aufträge nicht machen. Jedoch mache 
+ Heute habe ich die Aufträge 0708 uund 0709 lösen können im Unterricht. Ich habe mit den Aufträgen länger gebraucht als erwartet und konnte so die anderen zwei Aufträge nicht machen. Jedoch mache ich die Aufträge nächste Woche. Ich habe ebenfalls den Auftrag 0708 auf Github oben hinaufgeladen. Der Auftrag ist fertig.
 
+
+# 26.03.2024
+
+- [ ] Heute mache ich den Auftrag 2403 im Modul 106
+- [ ] Heute mache ich den Auftrag 2402 im Modul 106
+- [ ] Heute mache ich den Auftrag 0710 im Modul 187
+- [ ] Heute mache ich den Auftrag 0711 im Modul 187
 
 # Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
