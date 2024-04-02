@@ -63,10 +63,13 @@ Ich habe heute die Aufträge von dem Modul 187 fertig gemacht und ich bin fertig
 # 02.04.2024 
 
 - [ ] Heute mache ich den Auftrag 0711 im Modul 187.
-- [ ] Heute mache ich den Auftrag 2402 im Modul 106.
-- [ ] Heute mache ich den Auftrag 2403 im Modul 106
+- [X] Heute mache ich den Auftrag 2402 im Modul 106.
+- [X] Heute mache ich den Auftrag 2403 im Modul 106.
+
+  Heute habe ich meiner Meinung nach sehr Effizient gearbeitet und ich bin weit gekommen. Ich habe beide Aufträge erledigt und abgegeben. Jedoch habe ich den Auftrag 0711 nicht machen können weil ich doch beim 2403 ein bisschen länger angestanden bin und nicht weitergekommen bin. Ich habe um 8.00 Uhr mit den Aufträgen angefangen und durchgezogen bis 12:00 Uhr. 
 
 # Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
-Was ist Ihr nächster VBV?
+Ich war in dieser Lern-Periode vorallem in den Modulen sehr produktiv. Ich habe das Programmieren vernachlässigt weil die Module viel zeit genommen haben. Ich war jedoch in dem was ich gemacht habe sehr produktiv und ich konnte sehr viele Aufträge abschliessen und lösen. Das musste ich machen weil ich in den Lektionen in der Schule nicht immer alles Aufträge geschafft habe und ich stand auch oft an bei manchen Aufträgen. Jedoch habe ich mit dem Lernatelier alles kompensieren können aber dafür konnte ich dann nicht programmieren. Also ich würde sagen, das mein Verbesserungsvorschlag ist, dass ich mehr programmiere und mich auch mal an ein grösseres Projekt wage, das man vielleicht irgendwann verwenden kann und es nützlich ist. 
+
+
